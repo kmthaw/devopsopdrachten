@@ -9,6 +9,17 @@ body{
     font-family: Helvetica, Sans-Serif;
     color: #ffffff;
     text-align: center;
+    top: 50%; /* IMPORTANT */
+    left: 50%; /* IMPORTANT */
+    display: block;
+    position: absolute;
+    background: url(images/background.png) no-repeat center center;
+    width: 750px;
+    height: 417px;
+
+    margin-top: -208.5px; /* HALF OF THE HEIGHT */
+    margin-left: -375px; /* HALF OF THE WIDTH */
+    }
 }
 
 #bg1 {
