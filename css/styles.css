@@ -8,10 +8,10 @@ body{
     background-size: cover;
     font-family: Helvetica, Sans-Serif;
     color: #ffffff;
-    text-align: center;
+    text-align: center;  
     position: fixed;
     left: 50%;
-    top: 65%;
+    top: 50%;
     transform: translate(-50%, -50%);
 
     }
